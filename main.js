@@ -31,14 +31,14 @@ colorChange.addEventListener('click', e => {
         "background": "#1F2636",
         "accent2": "#0e1724",
         "font-color": "#e0e0e0",
-        "slate-text-color": "black"
+        "slate-text-color": "#708090"
     }
 
     const lightTheme = {
         "background": "#d9d9d9",
         "accent2": "#6e6e6e",
         "font-color": "#0e1724",
-        "slate-text-color": "#708090"
+        "slate-text-color": "black"
     }
 
     if(colorChange.dataset.theme == 'dark') {
