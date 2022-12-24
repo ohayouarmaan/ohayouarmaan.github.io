@@ -31,7 +31,7 @@ colorChange.addEventListener('click', e => {
         "background": "#1F2636",
         "accent2": "#0e1724",
         "font-color": "#e0e0e0",
-        "slate-text-color": "#708090"
+        "slate-text-color": "black"
     }
 
     const lightTheme = {
